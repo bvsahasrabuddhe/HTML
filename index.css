@@ -1,0 +1,23 @@
+*{
+    background-color: powderblue;
+    font-family: cursive;
+}
+
+.head{
+    background-color: red;
+    font-family: cursive;
+    color: white
+}
+
+
+#unique{
+    background-color: yellow;
+    font-family: cursive;
+    color: blueviolet;  
+}
+.tablecolor{
+    background-color: pink;
+    font-family: cursive;
+    color: black;   
+    text-align: center;
+}
